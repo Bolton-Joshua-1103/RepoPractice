@@ -1,3 +1,4 @@
 Entry1: This is a new file to my repository, I am testing branching, forking, merging, pulling, and pull requests [Resolved the conflict and deleted both comments from merging]
 Entry2: This is my second entry I will commit this and we should see 2 commits to this branch/repo
 Entry3: I've created a CalorieLog and Entered my food I've eaten today, these changes should only be reflectedon this branch.
+Entry4: Added Journal Branch, trying to understand branching still
